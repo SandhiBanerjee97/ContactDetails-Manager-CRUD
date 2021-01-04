@@ -1,5 +1,5 @@
 # ContactDetails-Manager-CRUD
-This  is a Simple Spring MVC Web Application(For learning purpose) which  allows user to Create,Read,Update and Delete Contact Details .This Application Uses  Spring JdbcTemplate to handle DataBase Operations and Jsp along with BootStrap Css has been used for views.
+This  is a Simple Spring MVC Web Application(For learning purpose) which  allows user to Create,Read,Update and Delete Contact Details from MYSQL database.This Application Uses  Spring JdbcTemplate to handle DataBase Operations and Jsp along with BootStrap Css has been used for views.
 
 **STEPS TO SETUP**
 1. Download the Project
